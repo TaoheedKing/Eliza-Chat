@@ -1,2 +1,2 @@
 # Eliza-Chat
-# Jaa practice with user input
+# Java practice with user input
